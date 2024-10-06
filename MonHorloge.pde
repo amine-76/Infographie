@@ -36,7 +36,7 @@ void setup() {
   // Create the second hand
   secondHand = createShape();
   secondHand.beginShape();
-  secondHand.fill(color(255, 0, 0));  // Red
+  secondHand.fill(color(255, 0, 0));  // Rouge
   secondHand.vertex(-3, 0);
   secondHand.vertex(-1, -200);
   secondHand.vertex(1, -200);
