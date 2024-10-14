@@ -24,7 +24,6 @@ This repository contains a collection of coursework and projects from my studies
 
 - **Praticals work 1 : MonHorloge**: A clock blued with the class Pshape. 
 
-*(Add or modify project details as necessary)*
 
 ## How to Run
 
